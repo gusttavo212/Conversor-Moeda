@@ -44,7 +44,7 @@ export default {//Propriedades do componente que irao ser passadas
     .conversor{
         background-color: #79bbbb;
         width: 40%;
-        padding-bottom: 10px;
+        padding: 5px;
     }
 
     .myButton {
